@@ -1,6 +1,6 @@
-# Building My First Real Project: ncat-chat
+# Building My First Project: nchat
 
-
+link: https://github.com/dikshitcomp404/ncat_secure_chat
 
 ## Motivation
 
